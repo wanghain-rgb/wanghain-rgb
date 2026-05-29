@@ -1,3 +1,8 @@
+![SAP](https://img.shields.io/badge/SAP-S%2F4HANA-blue)
+![Azure](https://img.shields.io/badge/Azure-AZ--104-0078D4)
+![AWS](https://img.shields.io/badge/AWS-CLF--C02-FF9900)
+![Python](https://img.shields.io/badge/Python-Developer-green)
+  
 # Hi, I'm Haining Wang 👋
 
 ### SAP Basis Consultant | Azure Administrator | AWS Certified Cloud Practitioner
